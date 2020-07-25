@@ -12,6 +12,7 @@ html{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     border: 5px solid white;
     border-radius: 15px;
+    zoom: 0%;
 }
 
 #heading{
@@ -41,11 +42,11 @@ ul {
 
 ul a{
     text-decoration: none;
-    color: #614AD3;
+    color: white;
     font-weight: 800;
     font-size: 1.2em;
 }
 
 ul a:hover{
-    color: white;
+    color: rgb(250, 190, 78);
 }
